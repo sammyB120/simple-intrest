@@ -1,3 +1,8 @@
+/*
+Author:saamuel mbuya
+Reg No:CT102/G/23825/24
+Date:04/10/2024
+*/
 #include <stdio.h>
 #include <math.h> 
 float simple_interest(float principal, float time, float rate) {
