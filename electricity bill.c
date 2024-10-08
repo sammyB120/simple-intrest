@@ -1,3 +1,8 @@
+/*
+Author:saamuel mbuya
+Reg No:CT102/G/23825/24
+Date:07/10/2024
+*/
 #include<stdio.h>
 int main(){
 	int customerID;
