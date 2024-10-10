@@ -12,8 +12,6 @@ int main(){
 	float totalbill;
 	float surcharge;
 
-
-	//Enter customer details
 	printf("\nEnter customerName\n:");
 	scanf("%s",&customerName);
 
@@ -24,9 +22,6 @@ int main(){
 	printf("\nEnter unitsconsumed\n:");
 	scanf("%d", &unitsconsumed);
 
-
-
-	// caculate charges per units based on units consumed
 	if(unitsconsumed<=199){
 		chargesperunit=1.20;
 	}else if(unitsconsumed>=200 && unitsconsumed<=400) {
@@ -46,7 +41,6 @@ int main(){
 		if(totalbill<100){
 			totalbill=100;
 		}
-		//print output
 
 		printf("\ncustomers iD: %d\n",customerID);
 		printf("\nunitsconsumed: %d\n",unitsconsumed);
