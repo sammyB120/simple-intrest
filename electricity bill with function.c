@@ -1,3 +1,8 @@
+/*
+Author:samuel mbuya
+Reg No:CT102/G/23825/24
+Date:17/10/2024
+*/
 #include<stdio.h>
 float Totalbill(int unitsconsumed, float chargesperunit){
 	return unitsconsumed*chargesperunit;
