@@ -1,3 +1,8 @@
+/*
+Author:saamuel mbuya
+Reg No:CT102/G/23825/24
+Date:17/10/2024
+*/
 // 1D ARRAY
 #include<stdio.h>
 
